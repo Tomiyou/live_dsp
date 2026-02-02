@@ -1,0 +1,9 @@
+[package]
+name = "live_dsp"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+anyhow = "1.0.100"
+cpal = "0.17.1"
+hound = "3.5.1"
